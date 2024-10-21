@@ -1,7 +1,7 @@
-![image](https://github.com/user-attachments/assets/3a101923-1152-455b-b692-6be1f993124e)# Ex-2-GENERATION OF LEXICAL TOKENS LEX FLEX TOOL
-# AIM
-## To write a lex program to implement lexical analyzer to recognize a few patterns.
-# ALGORITHM
+## Ex-2-GENERATION OF LEXICAL TOKENS LEX FLEX TOOL
+# AIM:
+To write a lex program to implement lexical analyzer to recognize a few patterns.
+# ALGORITHM:
 
 1.	Start the program.
 
